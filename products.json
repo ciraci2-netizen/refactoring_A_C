@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 99.99,
+      "features": ["Noise cancellation", "Bluetooth", "20-hour battery"]
+    },
+    {
+      "id": "2",
+      "name": "Smart Water Bottle",
+      "category": "Fitness",
+      "price": 39.99,
+      "features": ["Temperature display", "Insulated", "Leak-proof"]
+    }
+  ]
+}
